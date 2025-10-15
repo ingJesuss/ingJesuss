@@ -32,9 +32,10 @@ Tools and technologies that I have worked with and am interested in
     </td>
 
 <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="" />
-      <br>Mongodb
-    </td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
+  <br>MongoDB
+</td>
+
    
   </tr>
   <tr>
