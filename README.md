@@ -31,7 +31,7 @@ Currently, I’m studying at the **TripleTen Bootcamp**, where I work on hands-o
     </td>
 
 <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="Mongodb" />
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="" />
       <br>Mongodb
     </td>
    
