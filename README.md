@@ -23,7 +23,18 @@ Currently, I’m studying at the **TripleTen Bootcamp**, where I work on hands-o
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
-    </td>    
+    </td> 
+
+ <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="Mongodb" />
+      <br>Mongodb
+    </td>
+   
   </tr>
   <tr>
     <td align="center" width="96">
@@ -55,6 +66,7 @@ Currently, I’m studying at the **TripleTen Bootcamp**, where I work on hands-o
   </tr> 
  
 </table>
+
 
 
 
