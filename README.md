@@ -6,17 +6,58 @@ Currently, I’m studying at the **TripleTen Bootcamp**, where I work on hands-o
 ---
 
 ### 🧠 Tech Stack
+<table>
+  <tr>    
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>   
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express
+    </td> 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+        
+  </tr> 
+ 
+</table>
+
+
+
 
 
 ---
