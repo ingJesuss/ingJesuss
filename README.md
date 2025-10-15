@@ -5,7 +5,8 @@ Currently, I'm studying at the **TripleTen Bootcamp**, where I work on hands-on 
 
 ---
 
-### 🧠 Tech Stack  
+### Tools and technologies ⚙️  
+> Tools and technologies that I have worked with.
 
 <table>
   <tr>
